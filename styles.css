@@ -5,3 +5,9 @@
 a, a:hover, a:active, a:visited {
   text-decoration: none;
 }
+.company {
+  font-size: 0.9em;
+}
+.positionDetails {
+  font-size: 0.8em;
+}
